@@ -31,5 +31,6 @@ module.exports = {
         "no-extra-semi":"error"
     },
     "react/jsx-uses-react": "off",
-    "react/react-in-jsx-scope": "off"
+    "react/react-in-jsx-scope": "off",
+    "root": true
 }
